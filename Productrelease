@@ -1,6 +1,12 @@
 pseudo code
 {
+Product release()
+{
+  // Test release code
+}
 Product code()
 {
   // Product Initial Code
+}
+
 }
