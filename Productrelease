@@ -4,3 +4,12 @@ Product code()
 {
   // Product Initial Code
 }
+feature2 code()
+{
+  // feature2 product release code
+}
+if (date_time == 25th day of month)
+{
+ // Product Release Check
+}
+}
