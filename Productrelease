@@ -12,8 +12,12 @@ feature1 code()
 {
   // Sample Feature1 Code
 }
-if(date_time == 25th day of month)
+feature2 code()
 {
- // Product Release Code
+  // feature2 product release code
+}
+if (date_time == 25th day of month)
+{
+ // Product Release Check
 }
 }
